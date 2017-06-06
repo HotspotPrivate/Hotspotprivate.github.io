@@ -1,24 +1,25 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1496694423205">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1496776386940">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="410811951" ref="index"/>
-    <file name="iefonts_index.css" crc="156487542" ref="index"/>
+    <file name="index.css" crc="197297270" ref="index"/>
+    <file name="iefonts_index.css" crc="372810253" ref="index"/>
+    <file name="________-hotspot-private.css" crc="13684353" ref="загрузка-hotspot-private"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:загрузка-hotspot-private"/>
+    <file name="museutils.js" crc="4232573551" ref="index:загрузка-hotspot-private"/>
+    <file name="whatinput.js" crc="86476730" ref="index:загрузка-hotspot-private"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:загрузка-hotspot-private"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:загрузка-hotspot-private"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:загрузка-hotspot-private"/>
+    <file name="require.js" crc="4234670167" ref="index:загрузка-hotspot-private"/>
     <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:загрузка-hotspot-private"/>
   </folder>
   <folder name="images">
     <file name="hotspot-private-для-windows-favicon.ico" crc="3969453433" ref="index"/>
     <file name="invisible_48px-u214.png" crc="331156213" ref="index"/>
-    <file name="dotted-world-map-vector-2-u441-fr.png" crc="5561681" ref="index"/>
+    <file name="dotted-world-map-vector-2-u441-fr.png" crc="5561681" ref="index:загрузка-hotspot-private"/>
     <file name="screenshot_2.jpg" crc="3911182985" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -62,6 +63,8 @@
     <file name="invisible_48px.png" crc="519462286" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="загрузка-hotspot-private-favicon.ico" crc="3883646259" ref="загрузка-hotspot-private"/>
   </folder>
-  <file name="index.html" crc="216715472" seo="true" mt="1496694404324" redirect="true"/>
+  <file name="index.html" crc="4133549162" seo="true" mt="1496776296656" redirect="true"/>
+  <file name="загрузка-hotspot-private.html" crc="4248296438" seo="true" mt="1496775690281" redirect="true"/>
 </manifest>
