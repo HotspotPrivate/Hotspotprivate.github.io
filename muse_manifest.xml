@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1497040813352">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1497894849147">
   <folder name="assets">
     <file name="animation-box---pro-adobe-muse.mulib" crc="4110025531" seo="true" mt="1496947626000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="47883685"/>
-    <file name="index.css" crc="130370335" ref="index"/>
+    <file name="index.css" crc="4111834065" ref="index"/>
     <file name="iefonts_index.css" crc="3841282517" ref="index"/>
     <file name="________-hotspot-private.css" crc="13684353" ref="загрузка-hotspot-private"/>
   </folder>
@@ -20,12 +20,8 @@
     <file name="html5shiv.js" crc="4241844378" ref="index:загрузка-hotspot-private"/>
   </folder>
   <folder name="images">
-    <file name="hotspot-private-для-windows-favicon.ico" crc="3969453433" ref="index"/>
     <file name="invisible_48px-u214.png" crc="13451078" ref="index"/>
     <file name="dotted-world-map-vector-2-u441-fr.png" crc="5561681" ref="index:загрузка-hotspot-private"/>
-    <file name="screenshot_2.jpg" crc="3911182985" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="security checked_32px-u1384.png" crc="4072919205" ref="index"/>
     <file name="fraud_32px-u1419.png" crc="418600093" ref="index"/>
@@ -59,7 +55,11 @@
     <file name="russia-u3118.png" crc="3851445143" ref="index"/>
     <file name="germany (1)-u2980.png" crc="4237322794" ref="index"/>
     <file name="romania (1)-u2974.png" crc="215346948" ref="index"/>
+    <file name="hotspot-private-vpn-для-windows-favicon.ico" crc="3969453433" ref="index"/>
+    <file name="screenshot_3.jpg" crc="3817672997" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3966525972" seo="true" mt="1497040679188" redirect="true"/>
-  <file name="загрузка-hotspot-private.html" crc="303601728" seo="true" mt="1497037959302" redirect="true"/>
+  <file name="index.html" crc="4025402018" seo="true" mt="1497894784097" redirect="true"/>
+  <file name="загрузка-hotspot-private.html" crc="4010689181" seo="true" mt="1497894784097" redirect="true"/>
 </manifest>
