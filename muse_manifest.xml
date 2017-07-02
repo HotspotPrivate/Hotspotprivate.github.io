@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1498927652084">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Hotspot Private.com" resolutions="1x" timestamp="1499009071680">
   <folder name="css">
     <file name="site_global.css" crc="47883685"/>
-    <file name="index.css" crc="58692519" ref="index"/>
+    <file name="index.css" crc="3852124076" ref="index"/>
     <file name="iefonts_index.css" crc="3807722788" ref="index"/>
-    <file name="download.css" crc="106745696" ref="download"/>
+    <file name="download.css" crc="298484863" ref="download"/>
     <file name="iefonts_download.css" crc="477745939" ref="download"/>
   </folder>
   <folder name="assets">
@@ -25,7 +25,7 @@
     <file name="invisible_48px-u214.png" crc="13451078" ref="index"/>
     <file name="invisible_48px-u214-r.png" crc="3835945826" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:download"/>
-    <file name="dotted-world-map-vector-2-u441-fr.png" crc="5561681" ref="index"/>
+    <file name="dotted-world-map-vector-2-u441-fr.png" crc="5561681" ref="index:download"/>
     <file name="screenshot_4.jpg" crc="4211607279" ref="index:download">
       <caption webpage="index" alt=""/>
       <caption webpage="download" alt=""/>
@@ -63,8 +63,7 @@
     <file name="download-favicon.ico" crc="3883646259" ref="download"/>
     <file name="invisible_48px-u3463.png" crc="13451078" ref="download"/>
     <file name="invisible_48px-u3463-r.png" crc="3835945826" ref="download"/>
-    <file name="dotted-world-map-vector-2-u3418-fr.png" crc="5561681" ref="download"/>
   </folder>
-  <file name="index.html" crc="4105809143" seo="true" mt="1498927277216" redirect="true"/>
-  <file name="download.html" crc="138375226" seo="true" mt="1498927541065" redirect="true"/>
+  <file name="index.html" crc="161341687" seo="true" mt="1499008925186" redirect="true"/>
+  <file name="download.html" crc="4096690940" seo="true" mt="1499008416552" redirect="true"/>
 </manifest>
